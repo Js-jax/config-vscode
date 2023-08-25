@@ -1,0 +1,65 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Material Theme Ocean High Contrast",
+  "workbench.settings.editor": "json",
+  "workbench.sideBar.location": "right",
+  "workbench.editor.showTabs": false,
+  "workbench.statusBar.visible": false,
+  "workbench.activityBar.visible": false,
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
+  "editor.fontSize": 16,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.cursorStyle": "line",
+  "editor.wordWrap": "on",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.overviewRulerBorder": false,
+  "editor.guides.indentation": false,
+  "editor.hideCursorInOverviewRuler": true,
+  "editor.matchBrackets": false,
+  "editor.lineNumbers": "relative",
+  "editor.guides.highlightActiveIndentation": false,
+  "editor.glyphMargin": false,
+  "indenticator.width": 1,
+  "indenticator.color.dark": "rgba(255,255,255,0.1)",
+  "breadcrumbs.enabled": false,
+  "terminal.integrated.fontSize": 16,
+  "code-runner.runInTerminal": true,
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java"
+  },
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "git.openRepositoryInParentFolders": "never",
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "php.validate.executablePath": "",
+  "redhat.telemetry.enabled": true,
+  "[html]": {
+    "editor.defaultFormatter": "ms-vsliveshare.vsliveshare"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "gitlens.outputLevel": "debug",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  }
+}
