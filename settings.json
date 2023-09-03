@@ -1,6 +1,5 @@
 {
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Material Theme Ocean High Contrast",
   "workbench.settings.editor": "json",
   "workbench.sideBar.location": "right",
   "workbench.editor.showTabs": false,
@@ -50,7 +49,8 @@
   },
   "git.openRepositoryInParentFolders": "never",
   "[python]": {
-    "editor.formatOnType": true
+    "editor.formatOnType": true,
+    "editor.defaultFormatter": "ms-python.autopep8"
   },
   "php.validate.executablePath": "",
   "redhat.telemetry.enabled": true,
@@ -61,5 +61,11 @@
   "gitlens.outputLevel": "debug",
   "[typescriptreact]": {
     "editor.defaultFormatter": "vscode.typescript-language-features"
-  }
+  },
+  "gitlens.advanced.messages": {
+    "suppressDebugLoggingWarning": true
+  },
+  "workbench.colorCustomizations": {},
+  "workbench.colorTheme": "Bearded Theme Monokai Stone",
+  "python.formatting.provider": "none"
 }
